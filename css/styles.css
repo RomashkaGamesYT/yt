@@ -1,0 +1,6 @@
+body {
+	background-image: url('../images/BackgroundGroup.svg');
+	background-repeat: repeat-y;
+	background-size: cover;
+	overflow-x: hidden;
+}
